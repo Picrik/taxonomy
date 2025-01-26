@@ -11,7 +11,6 @@ seed_examples:
   question: 'What the difference between advantage and proficiency'
 - answer: "The proficiency bonus is equal to 2 plus 1 every 4 levels"
   question: 'How the proficiency bonus is calculated'
-task_description: ""
 document_outline: "book about D&D 5E"
   repo: "https://github.com/Picrik/instructlabdnd.git
   commit: "afcd30804d8d8264a68323fa1b663f60cd58eb0c" 
