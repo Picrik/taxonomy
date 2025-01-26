@@ -15,4 +15,4 @@ task_description: ""
 document_outline: "book about D&D 5E"
   repo: "https://github.com/Picrik/instructlabdnd.git
   commit: "afcd30804d8d8264a68323fa1b663f60cd58eb0c" 
-  patterns: "    instructlabdnd/dndrules.md"
+  patterns: "instructlabdnd/dndrules.md"
