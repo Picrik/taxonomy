@@ -1,0 +1,5 @@
+title_of_work: DnD
+link_to_work: https://dicedungeons.com/blogs/inside/what-is-proficiency-bonus
+revision: https://dicedungeons.com/blogs/inside/what-is-proficiency-bonus
+license_of_the_work: CC-BY-SA-4.0
+creator_names: Rachael Green

@@ -1,0 +1,18 @@
+created_by: Jérémy Schneider
+domain: board games
+seed_examples:
+- answer: 'The proficiency bonus in Dungeons and Dragons is a bonus added to skill checks, saving throws, or attacks for skills that a character is proficient in. At first glance, it might not be obvious how this bonus differs from the ability modifiers a character has.'
+  question: 'What is the proficiency bonus?'
+- answer: "When you have advantage on a roll, you throw two die and keep the highest one"
+  question: 'What happens if I roll with advantage'
+- answer: "When you have disadvantage on a roll, you throw two die and keep the smallest one"
+  question: 'What happens if I roll with disadvantage'
+- answer: "Advantage let you throw two die and keep the highest, where proficiency is a bonus you add to the test."
+  question: 'What the difference between advantage and proficiency'
+- answer: "The proficiency bonus is equal to 2 plus 1 every 4 levels"
+  question: 'How the proficiency bonus is calculated'
+task_description: ""
+document_outline: "book about D&D 5E"
+  repo: "https://github.com/Picrik/instructlabdnd/blob/main/qna.yaml"
+  commit: "afcd30804d8d8264a68323fa1b663f60cd58eb0c" 
+  patterns: ""
